@@ -74,36 +74,36 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: ivy-liu-644704118# your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 91PQ0XoAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
-zotero_username: # your zotero username
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# semanticscholar_id: # your Semantic Scholar ID
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# orcid_id: # your ORCID ID
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+# osf_id: # your OSF ID
+# research_gate_profile: # your profile on ResearchGate
+# scopus_id: # your profile on Scopus
+# blogger_url: # your blogger URL
+# work_url: # work page URL
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
+# wikipedia_id: # your wikipedia id (Case sensitive)
+# dblp_url: # your DBLP profile url
+# stackoverflow_id: # your stackoverflow id
+# kaggle_id: # your kaggle id
+# lastfm_id: # your lastfm id
+# spotify_id: # your spotify id
+# pinterest_id: # your pinterest id
+# unsplash_id: # your unsplash id
+# instagram_id: # your instagram id
+# facebook_id: # your facebook id
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+# discord_id: # your discord id (18-digit unique numerical identifier)
+# zotero_username: # your zotero username
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
+# contact_note: >
 
 
 # -----------------------------------------------------------------------------
@@ -150,16 +150,14 @@ giscus:
   emit_metadata: 0
   lang: en
 
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: 
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -175,13 +173,14 @@ collections:
     output: true
     permalink: /projects/:path/
 
+## enable on about page
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
