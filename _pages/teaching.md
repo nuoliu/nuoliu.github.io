@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching, mentoring, training
+title: teaching\&mentoring
 description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists
 nav: true
 nav_order: 6
