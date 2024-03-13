@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching, mentoring, training
+description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Mentor for rotation students from CSB program 
+- Provided computational training for collaborators from Bangladesh Child Health Research Foundation (CHRF), Spring 2023
+- Teaching assistant for 7.093 Modern Biostatistics and 7.094 Modern Computational Biology, Spring 2022

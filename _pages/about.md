@@ -6,7 +6,7 @@ subtitle: PhD candidate in <a href='https://shaleklab.com/'>Shalek Lab</a> @ MIT
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot1_NuoLiu.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Building E25, 400 Main Street<p>
