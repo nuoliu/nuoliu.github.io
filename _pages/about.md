@@ -9,7 +9,7 @@ profile:
   image: headshot1_NuoLiu.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Building E25, 400 Main Street<p>
+    <p> Building E25, 400 Main Street<p>
     <p> Cambridge, MA, 02142</p>
 
 news: true # includes a list of news items
