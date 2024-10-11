@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Professional Activities (leadership/mentoring/outreach)
+title: Teaching, Mentoring, and Outreach
 description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists
 nav: true
 nav_order: 6
@@ -22,7 +22,7 @@ nav_order: 6
 - provided computational training for collaborators from Bangladesh Child Health Research Foundation (CHRF), Spring 2023
 
 ## Teaching assistant for Modern Biostatistics (7.093) and Modern Computational Biology (7.094). 
-r
+
 *Massachusetts Institute of Technology, Cambridge, MA, 2022*
 
 Designed and led weekly recitations and office hours, and worked with instructors to design course materials and graded problem sets and exams
@@ -42,4 +42,10 @@ Designed and led weekly recitations and office hours, and worked with instructor
 *Massachusetts Institute of Technology, Cambridge, MA, 2021-2022*
 
 - Helped establish the application assistance program for the Computational and Systems Biology PhD program at MIT. Secured Grad Student Experience Grant from Office of Graduate Education at MIT to kick-start the first year of the program.
+
+## Grutor (= grader + tutor, similar to TA)
+
+*Harvey Mudd College*
+
+For CS158 (Machine Learning), CS133 (Database Systems), CS60 (Principles of Computer Science), CS5 "black" (Intro to CS), MCB118b (Introduction to Computational Biology) 
 
