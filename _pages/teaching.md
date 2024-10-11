@@ -18,7 +18,6 @@ nav_order: 6
 - Amy Huang, rotation student - 2024
 - Eric Gai, rotation student - 2023
 - Hannah Ramcharan, rotation student - 2022 
-- Teaching Assistant, Massachusetts Institute of Technology, Cambridge, MA, 2022
 - provided computational training for collaborators from Bangladesh Child Health Research Foundation (CHRF), Spring 2023
 
 ## Teaching assistant for Modern Biostatistics (7.093) and Modern Computational Biology (7.094). 
