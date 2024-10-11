@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Single-cell omics, computational biology, systems biology, perturbation studies # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👩‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://nuoliu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -70,7 +70,7 @@ github_username: nuoliu# your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: IvyNuoLiu
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: ivy-liu-644704118 # your LinkedIn user name
+linkedin_username: nuo-liu-644704118 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 91PQ0XoAAAAJ # your Google Scholar ID
 # semanticscholar_id: # your Semantic Scholar ID

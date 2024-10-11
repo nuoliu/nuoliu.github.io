@@ -9,8 +9,7 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Building E25, 400 Main Street<p>
-    <p> Cambridge, MA, 02142</p>
+    <p> email: ivliu@mit.edu <p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
