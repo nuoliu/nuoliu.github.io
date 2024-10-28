@@ -20,9 +20,12 @@ nav_order: 6
 - Hannah Ramcharan, rotation student - 2022 
 
 
-## Teaching assistant for Modern Biostatistics (7.093) and Modern Computational Biology (7.094). 
-
+## Teaching Assistant 
 *Massachusetts Institute of Technology, Cambridge, MA, 2022*
+
+- ** Modern Biostatistics **(7.093) 
+- ** Modern Computational Biology** (7.094). 
+
 
 Designed and led weekly recitations and office hours, and worked with instructors to design course materials and graded problem sets and exams
 
