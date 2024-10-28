@@ -23,8 +23,8 @@ nav_order: 6
 ## Teaching Assistant 
 *Massachusetts Institute of Technology, Cambridge, MA, 2022*
 
-- ** Modern Biostatistics **(7.093) 
-- ** Modern Computational Biology** (7.094). 
+- **Modern Biostatistics**(7.093) 
+- **Modern Computational Biology** (7.094). 
 
 
 Designed and led weekly recitations and office hours, and worked with instructors to design course materials and graded problem sets and exams
