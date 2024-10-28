@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching, Mentoring, and Outreach
-description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists
+description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists. Please feel free to reach out to me if you have any questions!
 nav: true
 nav_order: 6
 ---
@@ -12,13 +12,13 @@ nav_order: 6
 ## Mentoring at Shalek Lab
 *Massachusetts Institute of Technology, Cambridge, MA*
 - Ankit Basak, Chemistry graduate Student
-- Sam Lizotte (Ragon Institute [RISE](https://ragoninstitute.org/get-involved/internships/) summer intern), high school student from Brockton High
+- Sam Lizotte, Ragon Institute [RISE](https://ragoninstitute.org/get-involved/internships/) summer intern, high school student from Brockton High
 - School - 2024
-- Sarish Ray (Ragon Institute RISE summer intern), undergraduate student from UMass-Amherst - 2024
+- Sarish Ray, Ragon Institute RISE summer intern, undergraduate student from UMass-Amherst - 2024
 - Amy Huang, rotation student - 2024
 - Eric Gai, rotation student - 2023
 - Hannah Ramcharan, rotation student - 2022 
-- provided computational training for collaborators from Bangladesh Child Health Research Foundation (CHRF), Spring 2023
+
 
 ## Teaching assistant for Modern Biostatistics (7.093) and Modern Computational Biology (7.094). 
 
@@ -46,5 +46,15 @@ Designed and led weekly recitations and office hours, and worked with instructor
 
 *Harvey Mudd College*
 
-For CS158 (Machine Learning), CS133 (Database Systems), CS60 (Principles of Computer Science), CS5 "black" (Intro to CS), MCB118b (Introduction to Computational Biology) 
+- **CS158** (Machine Learning)
+- **CS133** (Database Systems)
+- **CS60** (Principles of Computer Science)
+- **CS5 "black"** (Intro to CS)
+- **MCB118b** (Introduction to Computational Biology) 
+
+## Biology[ Academic Excellence (AE)](https://www.hmc.edu/learning-programs/academic-excellence/) Program Facilitator
+
+*Harvey Mudd College*
+
+Developed weekly workshops to help students improve their understanding of concepts in the core biology courses and teach problem solving skills.
 

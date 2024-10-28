@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD candidate in <a href='https://shaleklab.com/'>Shalek Lab</a> @ MIT | Ragon Institute | Broad Institute
 
