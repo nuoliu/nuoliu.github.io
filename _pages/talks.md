@@ -8,6 +8,8 @@ nav_order: 3
 
 ## Selected Talks & Presentations
 
+- **Feb 2026** - "Perturb-Env: Towards a GxE map for virtual cells" (nominated lightning talk), Arc Institute Symposium, San Francisco, CA
+
 - **May 2024** - "Compressed phenotypic screening empowers scalable biological discovery" (selected oral), Single-Cell Genomics Conference GRC, Les Diablerets, Switzerland
 
 - **Feb 2024** - "Compressed Screening: High-throughput measurement and perturbation of tissues and tissue-derived cellular models", Microsoft Research New England, Cambridge, MA
