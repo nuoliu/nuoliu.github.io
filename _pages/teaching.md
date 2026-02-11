@@ -4,10 +4,13 @@ permalink: /teaching/
 title: Teaching, Mentoring, and Outreach
 description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists. Please feel free to reach out to me if you have any questions!
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-
+## Mentoring at Goodarzi Lab
+*Arc Institute, Palo Alto, CA*
+- Shervin Goudazi, undergrad research intern (UC Berkeley) - 2025-Current
+- Ria Garg, undergrad research intern (Stanford) - 2026-Current
 
 ## Mentoring at Shalek Lab
 *Massachusetts Institute of Technology, Cambridge, MA*

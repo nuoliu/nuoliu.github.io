@@ -4,7 +4,7 @@ title: Matcha
 permalink: /matcha/
 description: My recommendations for the best matcha lattes around places I live(d).
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 One of my favorite hobbies is hunting for great matcha lattes. Here are my recommendations by city.
