@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching, Mentoring, and Outreach
+nav_title: Teaching
 description: I am passionate about spreading science and knowledge about my research and mentoring younger students and scientists. Please feel free to reach out to me if you have any questions!
 nav: true
 nav_order: 7

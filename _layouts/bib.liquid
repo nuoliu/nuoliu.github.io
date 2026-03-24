@@ -74,20 +74,23 @@
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
+        {%- assign author_suffix = '' -%}
+        {%- if author.last contains '*' -%}{%- assign author_suffix = '*' -%}{%- endif -%}
+        {%- if author.last contains '†' -%}{%- assign author_suffix = '†' -%}{%- endif -%}
         {%- if author_is_self -%}
           <em>
             {{- author.first }}
-            {{ author.last -}}
-          </em>
+            {{ author_last_name -}}
+          </em>{{- author_suffix -}}
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">
               {{- author.first }}
-              {{ author.last -}}
-            </a>
+              {{ author_last_name -}}
+            </a>{{- author_suffix -}}
           {%- else -%}
             {{ author.first }}
-            {{ author.last }}
+            {{ author_last_name }}{{- author_suffix -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}

@@ -8,5 +8,5 @@ nav_order: 2
 cv_pdf: Nuo_Liu_cv_latest.pdf
 ---
 <div style="width: 100%; height:800">
-<iframe src="https://nuoliu.github.io//assets/pdf/Nuo_Liu_cv_latest.pdf" width="90%" height="800"></iframe>
+<iframe src="{{ '/assets/pdf/Nuo_Liu_cv_latest.pdf' | relative_url }}" width="90%" height="800"></iframe>
 </div>

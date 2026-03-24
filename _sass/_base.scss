@@ -4,6 +4,11 @@
 
 // Typography
 
+body {
+  font-size: 1.25rem;
+  font-family: "Marcellus", serif;
+}
+
 p,
 h1,
 h2,
@@ -17,6 +22,19 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Marcellus", serif;
+}
+
+h2 {
+  font-size: 1.75rem;
 }
 
 hr {
@@ -289,9 +307,12 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    display: inline-block;
+    transition: transform 0.25s ease, color 0.3s;
 
     &:hover {
       color: var(--global-hover-color);
+      transform: scale(1.05);
     }
   }
 
@@ -302,6 +323,7 @@ ul.task-list input[type="checkbox"] {
 
     &:hover {
       color: var(--global-hover-color);
+      transform: scale(1.05);
     }
   }
 
@@ -763,10 +785,13 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          display: inline-block;
+          transition: transform 0.25s ease, color 0.3s, border-color 0.3s !important;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+            transform: scale(1.05) !important;
           }
         }
       }
@@ -1117,4 +1142,81 @@ swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+}
+
+// News
+
+.news {
+  table {
+    font-size: 1.1rem;
+
+    th, td {
+      font-size: 1.1rem;
+    }
+
+    tr {
+      transition: background 0.2s;
+    }
+
+    tr:hover {
+      background: rgba(var(--global-theme-color-rgb, 229, 91, 43), 0.05);
+    }
+
+    td a {
+      position: relative;
+      display: inline;
+
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: -1px;
+        left: 0;
+        width: 0;
+        height: 1.5px;
+        background: var(--global-theme-color);
+        transition: width 0.3s ease;
+      }
+    }
+
+    tr:hover td a::after {
+      width: 100%;
+    }
+  }
+}
+
+// Publications hover
+
+.publications {
+  ol.bibliography {
+    li {
+      transition: background 0.2s;
+      border-radius: 4px;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+
+      &:hover {
+        background: rgba(229, 91, 43, 0.05);
+      }
+
+      .title {
+        position: relative;
+        display: inline;
+
+        &::after {
+          content: '';
+          position: absolute;
+          bottom: -1px;
+          left: 0;
+          width: 0;
+          height: 1.5px;
+          background: var(--global-theme-color);
+          transition: width 0.3s ease;
+        }
+      }
+
+      &:hover .title::after {
+        width: 100%;
+      }
+    }
+  }
 }

@@ -25,12 +25,15 @@ a.btncv {
   vertical-align: middle;
   text-transform: uppercase;
   white-space: nowrap;
+  display: inline-block;
+  transition: transform 0.25s ease, color 0.3s, border-color 0.3s !important;
 }
 
 a.btncv:hover {
   color: var(--global-theme-color) !important;
   border-color: var(--global-theme-color) !important;
   text-decoration: none !important;
+  transform: scale(1.05) !important;
 }
 
 /*****************************
