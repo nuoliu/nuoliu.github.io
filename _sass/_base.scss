@@ -1199,23 +1199,15 @@ swiper-container {
       }
 
       .title {
-        position: relative;
-        display: inline;
-
-        &::after {
-          content: '';
-          position: absolute;
-          bottom: -1px;
-          left: 0;
-          width: 0;
-          height: 1.5px;
-          background: var(--global-theme-color);
-          transition: width 0.3s ease;
-        }
+        text-decoration: underline;
+        text-decoration-color: transparent;
+        text-decoration-thickness: 1.5px;
+        text-underline-offset: 3px;
+        transition: text-decoration-color 0.3s ease;
       }
 
-      &:hover .title::after {
-        width: 100%;
+      &:hover .title {
+        text-decoration-color: var(--global-theme-color);
       }
     }
   }

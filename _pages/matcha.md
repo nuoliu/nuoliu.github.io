@@ -23,7 +23,6 @@ One of my favorite hobbies is hunting for great matcha lattes. Here are my recom
 ## New York
 
 - [12 Matcha](https://www.google.com/maps/place/12+Matcha/@40.72595882315363,-73.99242007145257,17z/)
-- [Twelve Matcha](https://maps.app.goo.gl/VvvGnpboRXCx9XrY8)
 - [Sorate](https://maps.app.goo.gl/X5Q9V11aVX66iv3X8)
 - [% Arabica](https://maps.app.goo.gl/RMqQEd6JBmp4vQcGA)
 
