@@ -12,6 +12,9 @@ nav_order: 7
 *Arc Institute, Palo Alto, CA*
 - Shervin Goudazi, undergrad research intern (UC Berkeley) - 2025-Current
 - Ria Garg, undergrad research intern (Stanford) - 2026-Current
+- Adib Fallahpour, AIxBio Fellow (University of Toronto) - 2026-Current
+- Mohammadparsa Idehpour, AIxBio Fellow (University of Pennsylvania) - 2026-Current
+- Arihant Jain, AIxBio Fellow (University of Pennsylvania) - 2026-Current
 
 ## Mentoring at Shalek Lab
 *Massachusetts Institute of Technology, Cambridge, MA*
