@@ -15,6 +15,9 @@ nav_order: 7
 - Adib Fallahpour, AIxBio Fellow (University of Toronto) - 2026-Current
 - Mohammadparsa Idehpour, AIxBio Fellow (University of Pennsylvania) - 2026-Current
 - Arihant Jain, AIxBio Fellow (University of Pennsylvania) - 2026-Current
+- Linus Hansen, undergrad research intern (University of Chicago) - 2026-Current
+- Vikram Nandi, undergrad research intern (UC Berkeley) - Summer 2026
+
 
 ## Mentoring at Shalek Lab
 *Massachusetts Institute of Technology, Cambridge, MA*
