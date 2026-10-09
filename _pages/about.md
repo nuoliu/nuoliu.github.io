@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Research Fellow @ <a href='https://arcinstitute.org/labs/goodarzilab'>Goodarzi Lab</a>, Arc Institute | Visiting Fellow @ <a href='https://elementolab.weill.cornell.edu/'>Elemento Lab</a>, Weill Cornell Medicine
+subtitle: Postdoctoral Research Fellow @ <a href='https://arcinstitute.org/labs/goodarzilab'>Goodarzi Lab</a>, Arc Institute
 
 profile:
   align: right
